@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+# real housekeeper sheets stay private; use fabricated samples for the public repo
+samples/
+drafts/
+demo/_raw/
+.claude/
+PLAN.md
+*.pkl
+.DS_Store

@@ -1,0 +1,9 @@
+# apartment_a. All positions are fractions of the (EXIF-rotated) photo.
+name: apartment_a
+rooms: ["101","102","103","104","105","106","107","108","201","202","203","204","205","206","207","208"]
+table_top: 0.283
+table_bottom: 0.765
+# x boundaries: room | e_prev | e_curr | e_cost | w_prev | w_curr | w_cost
+columns: [0.108, 0.167, 0.302, 0.431, 0.555, 0.681, 0.806, 0.920]
+electric_rate: 7
+water_rate: 28

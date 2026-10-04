@@ -1,0 +1,18 @@
+[project]
+name = "hacktoberfest2026"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=6.29.1",
+    "gradio-client>=2.7.2",
+    "ollama>=0.6.3",
+    "pandas>=3.0.6",
+    "pillow>=12.3.0",
+    "pyyaml>=6.0.3",
+]
+
+[dependency-groups]
+dev = [
+    "imageio-ffmpeg>=0.6.0",
+    "playwright>=1.63.0",
+]
