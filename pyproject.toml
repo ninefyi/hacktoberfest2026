@@ -7,7 +7,7 @@ dependencies = [
     "gradio-client>=2.7.2",
     "ollama>=0.6.3",
     "pandas>=3.0.6",
-    "pillow>=12.3.0",
+    "pillow>=13.0.0",
     "pyyaml>=6.0.3",
 ]
 
